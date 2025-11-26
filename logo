@@ -1,0 +1,10 @@
+我使用 GPT-image-1 来进行设计，以狐狸为吉祥物为产品制作的抽象风格图标。相同提示词下 Nano Banana 的表现比较差劲。你可以下面这个提示词进行调整：
+
+"""
+Create a 1024x1024 gradient app icon: Artifox — a single, cute fox symbol that represents an AI SaaS for generating images, audio, and video. Primary brand color: #ff4f1b; build the fox with smooth, vibrant gradients (you may blend analogous warm hues and a subtle neutral for contrast) while preserving clear edges. Integrate a subtle creation/AI cue (spark/pixel/waveform/play-triangle) within the fox silhouette as part of the same shape. Single icon symbol fills 96–98% of the 1024x1024 canvas (no padding, no inset, no margins). No container, no rounded-square tile, no app plate, no border, no outline, no drop shadow, no outer glow, no bevel, no emboss, no inner shadow. Crisp, sharp, professional composition. Use smooth, vibrant gradients as the primary design element with multiple color transitions for depth and visual interest. Background must be fully transparent (alpha 0). Modern, Instagram-inspired aesthetic.
+"""
+
+"""
+Create a 1024x1024 gradient app icon: An abstract, cute fox symbol for the AI SaaS brand “artifox”—a single flowing ribbon forms the fox head, ear, and curled tail into one continuous mark, suggesting creativity across images, audio, and video; dominant brand color #ff5a00 with multi-hue gradients (peach, coral, magenta, amber) inside the symbol; pure white background. Single icon symbol fills 96–98% of the 1024x1024 canvas (no padding, no inset, no margins). No container, no rounded-square tile, no app plate, no border, no outline, no drop shadow, no outer glow, no bevel, no emboss, no inner shadow. Crisp, sharp, professional composition. Use smooth, vibrant gradients as the primary design element. Multiple color transitions creating depth and visual interest. Modern, Instagram-inspired aesthetic.
+"""
+来自https://x.com/hellokaton/status/1993531161373819259?s=46&t=BoDrsZ46HoHblb5pEybaaQ
